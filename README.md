@@ -1,2 +1,3 @@
 # b2bitproject
-Desafio/b2bit
+npm install
+npm run dev
